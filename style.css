@@ -1,0 +1,42 @@
+/*Insérer fichier css dans coDE Style.css*/
+
+/*Chengement des coulers */
+p{
+    color: red;
+}
+
+h1{
+    color: darkgreen;
+}
+h2{
+    color: coral;
+}
+
+
+ul{
+    color: blueviolet;
+}
+
+ol{
+    color: blue;
+}
+
+
+a{
+    color: gold;
+}
+
+
+h3{
+    color: aqua;
+}
+
+title{
+    color: brown;
+}
+
+
+
+
+
+
