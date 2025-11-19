@@ -1,8 +1,10 @@
 /*Insérer fichier css dans coDE Style.css*/
 
-/*Chengement des coulers */
+/*Chengement des couleur */
 p{
     color: red;
+    text-align: center;
+    
 }
 
 h1{
