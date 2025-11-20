@@ -4,17 +4,22 @@
 p{
     color: red;
     text-align: center;
+    font-family:"Sofia", sans-serif;
+
     
 
 }
 
 p classe{
     color: blue;
+    font-style: italic;
 
 }
 /*j'ai mis tout mes h en couleur*/
 h1{
     color: darkgreen;
+    font-family:roboto,sans-serif;
+    text-align: right;
 }
 h2{
     color: coral;
@@ -41,7 +46,8 @@ h3{
 /*j'ai mis tout mes en couleur*/
 title{
     color: brown;
-    
+    font-family:"Trirong",serif;
+    text-align:underline;
 
 }
 
@@ -55,10 +61,10 @@ title{
     font-size:15px;
     font-size: 1em;
 }
+body {
 
-body{
-    font-family:roboto,sans-serif;
 }
+
 
 
 
