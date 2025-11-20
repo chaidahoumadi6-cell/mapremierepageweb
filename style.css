@@ -5,6 +5,11 @@ p{
     color: red;
     text-align: center;
     
+
+}
+p classe{
+    color: blue;
+
 }
 
 h1{
@@ -20,7 +25,7 @@ ul{
 }
 
 ol{
-    color: blue;
+    color: rgb(255, 0, 230);
 }
 
 
@@ -35,9 +40,18 @@ h3{
 
 title{
     color: brown;
+    
+
 }
 
+    /*je sélectionne toute les paragraphe rsma en couleur bleu*/
+.RSMA {
+    color: blue;
+}
+    
+{
 
+}
 
 
 
