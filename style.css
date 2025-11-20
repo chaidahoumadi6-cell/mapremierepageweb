@@ -1,17 +1,18 @@
 /*Insérer fichier css dans coDE Style.css*/
 
-/*Chengement des couleur */
+/*Chenge mes paragraphe en couleur */
 p{
     color: red;
     text-align: center;
     
 
 }
+
 p classe{
     color: blue;
 
 }
-
+/*j'ai mis tout mes h en couleur*/
 h1{
     color: darkgreen;
 }
@@ -37,7 +38,7 @@ a{
 h3{
     color: aqua;
 }
-
+/*j'ai mis tout mes en couleur*/
 title{
     color: brown;
     
@@ -45,13 +46,25 @@ title{
 }
 
     /*je sélectionne toute les paragraphe rsma en couleur bleu*/
-.RSMA {
-    color: blue;
-}
+    /*je modifier la taille de texte*/
+    /* je spécifier la taille du texte*/
+    /* jai intéger la police roboto*/
     
-{
-
+.RSMA {
+    color:blue ;
+    font-size:15px;
+    font-size: 1em;
 }
+
+body{
+    font-family:roboto,sans-serif;
+}
+
+
+
+
+
+    
 
 
 
