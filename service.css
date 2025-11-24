@@ -1,0 +1,26 @@
+/*Ici,je rédige la feuille de style pour mettre en forme*/
+
+div{
+
+    /*couleur le fichier service.html*/
+    color: red;
+
+    /*le code de l'arriéer-plan de la page*/
+    background-color:aqua;
+    border:dotted;
+    border-color: blue;
+}
+#divsolid{
+
+    border: solid;
+}
+#divdotted{
+
+    border: dotted;
+}
+#divdouble{
+    border: double;
+}
+#divdashed{
+    border:dashed ;
+}
