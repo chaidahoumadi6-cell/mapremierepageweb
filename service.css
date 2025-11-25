@@ -1,5 +1,4 @@
 /*Ici,je rédige la feuille de style pour mettre en forme*/
-
 div{
 
     /*couleur le fichier service.html*/
@@ -11,16 +10,18 @@ div{
     border-color: blue;
 }
 #divsolid{
-
+    border-radius:100px 80px 40px 20px ;
     border: solid;
 }
 #divdotted{
-
+    border-radius: 25px 45px 85px 65px;
     border: dotted;
 }
 #divdouble{
+    border-radius: 10px 30px 50px 70px;
     border: double;
 }
 #divdashed{
-    border:dashed ;
+    border:dashed;
+    border-radius: 90px 60px 35px 75px;
 }
