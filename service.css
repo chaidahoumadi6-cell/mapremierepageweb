@@ -12,14 +12,17 @@ div{
 #divsolid{
     border-radius:100px 80px 40px 20px ;
     border: solid;
+    width: 50px;
 }
 #divdotted{
     border-radius: 25px 45px 85px 65px;
     border: dotted;
+    width: 70px;
 }
 #divdouble{
     border-radius: 10px 30px 50px 70px;
     border: double;
+    width: 90px;
 }
 #divdashed{
     border:dashed;
