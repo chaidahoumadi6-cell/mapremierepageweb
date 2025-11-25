@@ -8,8 +8,16 @@ div{
     background-color:aqua;
     border:dotted;
     border-color: blue;
+    text-align: center;
+}
+div{
+    /*hauter*/
+    height: 120px;
+    /*lareger*/
+    width: 125px;
 }
 #divsolid{
+    /*ajout une arrondir des angles*/
     border-radius:100px 80px 40px 20px ;
     border: solid;
     width: 50px;
@@ -18,13 +26,18 @@ div{
     border-radius: 25px 45px 85px 65px;
     border: dotted;
     width: 70px;
+
+    /*le text est aligné au centre*/
+    text-align: center;
 }
 #divdouble{
     border-radius: 10px 30px 50px 70px;
     border: double;
     width: 90px;
+    height: 75px;
 }
 #divdashed{
     border:dashed;
     border-radius: 90px 60px 35px 75px;
+    width: 60px;
 }
