@@ -1,0 +1,48 @@
+/*sélecteur*/
+form{
+  background:gold;
+  
+}
+div{
+    /*il se comporte comme s'il était en ligne avec le texte environnant*/
+    display: inline;
+    margin-left: 14px;
+    
+}
+
+/*l'intérieur de la balise input*/
+input[type=text], input[type= date] , input[type=email]{
+
+    /*hauteur sont déterminées par leur contenu*/
+    padding: 5px;
+
+    /*la marges et remplissages verticaux haut et bas ne sont pas pris en compte*/
+    margin: 25px;
+    text-align: center;
+    border-radius: 10px;
+    border:dashed;
+    border-color:green ;
+    background-color:gray ;
+    
+}
+
+input[type=submit]{
+    padding: 5px;
+    margin: 25px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
