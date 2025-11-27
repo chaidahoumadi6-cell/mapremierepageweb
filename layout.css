@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+/*Mis en forme l'entete*/
+header{
+    /*L'arrriére plan est colorié en gris*/
+    background-color: #666;
+
+    /*hauteur sont déterminées par leur contenu*/
+    padding: 20px;
+
+    /* aligné au centre du texte*/
+    text-align: center;
+
+    color: white;
+
+    /*agrandir la taille du texte*/
+    font-size: 30px;
+}
+/*Mis en forme de la section*/
+section{
+    /*optimise l'affichage sur difféerentes tailles d'écrans*/
+    display: -webkit-flex;
+    display: flex;
+}
+/*Mis en forme de la barre de navigation*/
+nav{
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: #ccc;
+    padding: 25px;
+}
+/*liste ul de la balisse*/
+nav ul{
+    /*je retire le puce de la liste*/
+    list-style-type: none;
+    padding: 0px;
+}
+/* Mis en forme de la vue article*/
+article{
+    -webkit-flex: 5;
+    -ms-flex: 5;
+    flex: 5;
+    background-color: #f1f1f1;
+    padding: 10px; ;
+}
+/*Mis en forme de */
+footer{
+    text-align: center;
+    background-color: #777;
+    color: white;
+    padding: 10px;
+}
