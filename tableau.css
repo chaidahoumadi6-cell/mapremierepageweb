@@ -1,5 +1,5 @@
+/*délimitent une cellule d'en-tete,pour l'en-tete des colonnes le texte est mis en gras et centré*/
 table,td,th{
-    
     border-color: cornflowerblue;
     border-style:solid ;
 }
